@@ -1,5 +1,9 @@
-import unittest
-import calculator
+# import unittest
+# import calculator
+
+import sys
+sys.path.append(/Users/sumukhbhandarkar/Desktop/Python Demo)
+import update
 
 class TestCalc(unittest.TestCase):
     def test_add(self):
